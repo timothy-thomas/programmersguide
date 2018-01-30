@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=OpenMETA
+set SPHINXPROJ=programmersguide
 
 if "%1" == "" goto help
 
